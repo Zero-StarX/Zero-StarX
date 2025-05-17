@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/PqvTQ1WB/ZeroBotz.jpg" width="100%" />
 </p>
 
-<h1 align="center">Welcome to <span style="color:#00f0ff;">ZERO-STARX</span>'s Realm ⚡</h1>
+<h1 align="center">Welcome to <span style="color:#00f0ff;">ZERO-STARX</span>'⚡</h1>
 
 <p align="center">
   <b>Fullstack Dev | API Slayer | Bot Wizard | Night Coder</b>
