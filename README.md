@@ -1,6 +1,6 @@
 <!-- DARK BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/zgZK8Zs.gif" width="100%" />
+  <img src="https://i.postimg.cc/PqvTQ1WB/ZeroBotz.jpg" width="100%" />
 </p>
 
 <h1 align="center">Welcome to <span style="color:#00f0ff;">ZERO-STARX</span>'s Realm ⚡</h1>
